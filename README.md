@@ -1,4 +1,5 @@
 # appna-demo
 thise is my trial repostriya
-auther name(sumit mahadik
+auther name(vishal mahadik)
+
 <br> 
